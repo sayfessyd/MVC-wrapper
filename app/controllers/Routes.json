@@ -1,0 +1,23 @@
+{
+   "Home/defaultAction":{
+      "description":"default action",
+      "source":"controllers/",
+      "status":"works"
+   },
+   "Home/stream":{
+      "description":"test action",
+      "source":"controllers/",
+      "status":"works"
+   },
+   "Home/login":{
+      "description":"test action",
+      "source":"controllers/",
+      "status":"works"
+   },
+   "Home/signUp":{
+   "description":"test action",
+   "source":"controllers/",
+   "status":"works"
+   }
+
+}

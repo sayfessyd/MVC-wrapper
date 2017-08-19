@@ -1,0 +1,9 @@
+{
+   "English":{
+      "src":"en/en.php"
+   },
+   "French":{
+      "src":"fr/fr.php"
+   }
+
+}
